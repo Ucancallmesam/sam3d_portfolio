@@ -218,7 +218,7 @@ import {
         },
       ],
       image: saaS,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com//Ucancallmesam/concept_threejs_ai",
     },
     {
       name: "Job IT",
@@ -239,7 +239,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/Ucancallmesam/concept_threejs_ai",
+      source_code_link: "https://github.com",
     },
     {
       name: "Trip Guide",
