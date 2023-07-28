@@ -124,10 +124,10 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developed and maintained web applications using React.js and other related technologies.",
         "Responsibe for implementing front-end functionality and logic within web applications.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Implemented responsive design and ensuring cross-browser compatibility.",
+        "Participated in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
@@ -137,10 +137,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Analyzing and optimizing application performance to ensure smooth navigation and reduced load time.",
-        "Using version control systems like Git to manage code changes and collaborate effectively with other team members.",
-        "Keeping abreast of the lastest updates and features in the React Native ecosystem to leverage new functionalities and libraries in their projects.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Analyzed and optimized application performance to ensure smooth navigation and reduced load time.",
+        "Used version control systems like Git to manage code changes and collaborate effectively with other team members.",
+        "Kept abreast of the lastest updates and features in the React Native ecosystem to leverage new functionalities and libraries in their projects.",
+        "Participated in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
