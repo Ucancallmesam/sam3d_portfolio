@@ -163,10 +163,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Designing and implementing user interfaces using HTML, CSS, and JavaScript.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Building and maintaining the server-side logic and databases.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Designed and implemented user interfaces using HTML, CSS, and JavaScript.",
+        "Collaborated with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Built and maintained the server-side logic and databases.",
+        "Participated in code reviews and providing constructive feedback to other developers.",
       ],
     },
   ];
